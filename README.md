@@ -1,3 +1,4 @@
+# Patched version bypasses SSL error condition
 # adfsbrute
 
 A script to test credentials against Active Directory Federation Services (ADFS), calculating the ADFS url of an organization and allowing password spraying or bruteforce attacks. 
